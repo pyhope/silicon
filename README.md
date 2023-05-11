@@ -1,5 +1,6 @@
 # The input files for MD simulation
 ## Only show the simulation at 1700 K with 216 atoms as an example
+## Scripts are available in the github repo: https://github.com/pyhope/silicon
 ## Script 1: start.lmp
 
 ```
